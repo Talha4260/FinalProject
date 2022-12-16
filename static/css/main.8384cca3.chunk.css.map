@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/combinedstyle.css","webpack://src/pages/styling.css"],"names":[],"mappings":"AAAA,WACI,oBAAqB,CACrB,UACJ,CCHA,YACI,SAAU,CACV,cACF","file":"main.8384cca3.chunk.css","sourcesContent":[".menu-item {\r\n    text-decoration: none;\r\n    color:black\r\n}",".validation {\r\n    color: red;\r\n    font-size: 12px;\r\n  }"]}
